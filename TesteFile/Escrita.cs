@@ -51,8 +51,6 @@ namespace TesteFile
                 {
                     outPut.Add(trailer);
                 }
-                
-               
             }
             return outPut;
         }
