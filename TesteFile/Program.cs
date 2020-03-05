@@ -12,10 +12,10 @@ namespace TesteFile
             {
                 AnoFabricacaoEmBranco = "1111",
                 BairroEnderecoDadosDoRisco = "444444444444444",
-                NumeroContrato = "1111",
-                NumeroVersaoContratoFixo = "1111",
-                Chave = "1111",
-                NumeroDoSub = "1111",
+                NumeroContrato = "9",
+                NumeroVersaoContratoFixo = "9",
+                Chave = "9",
+                NumeroDoSub = "9",
                 Certificado = "1111",
                 Cnpj_CpfItemSeguradoGlobal = "1111",
                 MovimentoFixoIgualI = "1111",
@@ -52,7 +52,7 @@ namespace TesteFile
             var modelo = Util.ReadFile(@"C:\temp\modelouss.txt");
             Escrita escrita = new Escrita();
             var retorno = escrita.WriteFileByModel(new List<Capitalizacao> { cap }, modelo);
-            Util.WriteFile(retorno, @"C:\temp\saida.txt");
+            Util.WriteFile(retorno, @"C:\temp\saida1.txt");
         }
     }
 }

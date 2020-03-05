@@ -31,5 +31,9 @@ namespace TesteFile
             }
             file.Close();
         }
+        public static string InsertString(this string value, int start, string text)
+        {
+            return value.Length < start ? value.PadRight(start, ' ') + text : value.Insert(start,text);
+        }
     }
 }
