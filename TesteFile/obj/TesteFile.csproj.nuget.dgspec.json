@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Monique\\source\\repos\\TesteFile\\TesteFile\\TesteFile.csproj": {}
+    "C:\\Users\\Monique\\source\\repos\\ReadFilesByModel\\TesteFile\\TesteFile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Monique\\source\\repos\\TesteFile\\TesteFile\\TesteFile.csproj": {
+    "C:\\Users\\Monique\\source\\repos\\ReadFilesByModel\\TesteFile\\TesteFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Monique\\source\\repos\\TesteFile\\TesteFile\\TesteFile.csproj",
+        "projectUniqueName": "C:\\Users\\Monique\\source\\repos\\ReadFilesByModel\\TesteFile\\TesteFile.csproj",
         "projectName": "TesteFile",
-        "projectPath": "C:\\Users\\Monique\\source\\repos\\TesteFile\\TesteFile\\TesteFile.csproj",
+        "projectPath": "C:\\Users\\Monique\\source\\repos\\ReadFilesByModel\\TesteFile\\TesteFile.csproj",
         "packagesPath": "C:\\Users\\Monique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Monique\\source\\repos\\TesteFile\\TesteFile\\obj\\",
+        "outputPath": "C:\\Users\\Monique\\source\\repos\\ReadFilesByModel\\TesteFile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

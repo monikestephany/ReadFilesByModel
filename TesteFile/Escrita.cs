@@ -7,7 +7,7 @@ namespace TesteFile
 {
     public class Escrita
     {
-        public List<string> WriteFileByModel<T>(List<T> input, List<string> models)
+        public List<string> WriteFileByModel<T>(List<T> input, List<string> models,bool headerB,bool traillerB)
         {
             List<string> outPut = new List<string>();
 
@@ -16,7 +16,6 @@ namespace TesteFile
                 string linha = "";
                 string header = "";
                 string trailer = "";
-                trailer = trailer.SetLengthString(909);
                 for (int i = 0; i < models.Count; i++)
                 {
                     foreach (var item in input[q].GetType().GetProperties(BindingFlags.Public | BindingFlags.Instance))
@@ -25,12 +24,12 @@ namespace TesteFile
 
                         if (item.Name == sp[2])
                         {
-                            if (sp[3] == "H" && q == 0)
+                            if (sp[3] == "H" && q == 0 && headerB)
                             {
                                 header = header.InsertString(int.Parse(sp[0]), item.GetValue(input[q]).ToString().SetLengthString(int.Parse(sp[1])));
 
                             }
-                            else if (sp[3] == "T" && q == (input.Count - 1))
+                            else if (sp[3] == "T" && q == (input.Count - 1) && traillerB)
                             {
                                 trailer = trailer.InsertString(int.Parse(sp[0]), item.GetValue(input[q]).ToString().SetLengthString(int.Parse(sp[1])));
                             }
@@ -42,12 +41,12 @@ namespace TesteFile
                     }
 
                 }
-                if (q == 0)
+                if (q == 0 && headerB)
                 {
                     outPut.Add(header);                 
                 }
                 outPut.Add(linha);
-                if (q == (input.Count - 1))
+                if (q == (input.Count - 1) && traillerB)
                 {
                     outPut.Add(trailer);
                 }

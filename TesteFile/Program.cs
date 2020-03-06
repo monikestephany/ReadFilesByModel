@@ -51,8 +51,10 @@ namespace TesteFile
         
             var modelo = Util.ReadFile(@"C:\temp\modelouss.txt");
             Escrita escrita = new Escrita();
-            var retorno = escrita.WriteFileByModel(new List<Capitalizacao> { cap }, modelo);
+            var retorno = escrita.WriteFileByModel(new List<Capitalizacao> { cap }, modelo,true,false);
             Util.WriteFile(retorno, @"C:\temp\saida1.txt");
+            Leitura leitura = new Leitura();
+            var l = leitura.TesteLeitura<Capitalizacao>(retorno, modelo);
         }
     }
 }

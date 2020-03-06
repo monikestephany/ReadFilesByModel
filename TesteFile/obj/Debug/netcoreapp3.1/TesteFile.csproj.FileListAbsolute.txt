@@ -9,3 +9,14 @@ C:\Users\Monique\source\repos\TesteFile\TesteFile\obj\Debug\netcoreapp3.1\TesteF
 C:\Users\Monique\source\repos\TesteFile\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.dll
 C:\Users\Monique\source\repos\TesteFile\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.pdb
 C:\Users\Monique\source\repos\TesteFile\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.csprojAssemblyReference.cache
+C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\bin\Debug\netcoreapp3.1\TesteFile.exe
+C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\bin\Debug\netcoreapp3.1\TesteFile.deps.json
+C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\bin\Debug\netcoreapp3.1\TesteFile.runtimeconfig.json
+C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\bin\Debug\netcoreapp3.1\TesteFile.runtimeconfig.dev.json
+C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\bin\Debug\netcoreapp3.1\TesteFile.dll
+C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\bin\Debug\netcoreapp3.1\TesteFile.pdb
+C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.csprojAssemblyReference.cache
+C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.AssemblyInfoInputs.cache
+C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.AssemblyInfo.cs
+C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.dll
+C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.pdb
