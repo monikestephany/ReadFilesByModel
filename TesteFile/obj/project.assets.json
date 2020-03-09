@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\monik\\.nuget\\packages\\": {}
+    "C:\\Users\\Monique\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\ReadFilesByModel\\TesteFile\\TesteFile.csproj",
+      "projectUniqueName": "C:\\GitMonike\\ReadFilesByModel\\TesteFile\\TesteFile.csproj",
       "projectName": "TesteFile",
-      "projectPath": "C:\\Git\\ReadFilesByModel\\TesteFile\\TesteFile.csproj",
-      "packagesPath": "C:\\Users\\monik\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\ReadFilesByModel\\TesteFile\\obj\\",
+      "projectPath": "C:\\GitMonike\\ReadFilesByModel\\TesteFile\\TesteFile.csproj",
+      "packagesPath": "C:\\Users\\Monique\\.nuget\\packages\\",
+      "outputPath": "C:\\GitMonike\\ReadFilesByModel\\TesteFile\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\monik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Monique\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
