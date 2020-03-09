@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Monique\\source\\repos\\ReadFilesByModel\\TesteFile\\TesteFile.csproj": {}
+    "C:\\Git\\ReadFilesByModel\\TesteFile\\TesteFile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Monique\\source\\repos\\ReadFilesByModel\\TesteFile\\TesteFile.csproj": {
+    "C:\\Git\\ReadFilesByModel\\TesteFile\\TesteFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Monique\\source\\repos\\ReadFilesByModel\\TesteFile\\TesteFile.csproj",
+        "projectUniqueName": "C:\\Git\\ReadFilesByModel\\TesteFile\\TesteFile.csproj",
         "projectName": "TesteFile",
-        "projectPath": "C:\\Users\\Monique\\source\\repos\\ReadFilesByModel\\TesteFile\\TesteFile.csproj",
-        "packagesPath": "C:\\Users\\Monique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Monique\\source\\repos\\ReadFilesByModel\\TesteFile\\obj\\",
+        "projectPath": "C:\\Git\\ReadFilesByModel\\TesteFile\\TesteFile.csproj",
+        "packagesPath": "C:\\Users\\monik\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\ReadFilesByModel\\TesteFile\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Monique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\monik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

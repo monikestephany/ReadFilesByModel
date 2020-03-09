@@ -20,3 +20,14 @@ C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1
 C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.AssemblyInfo.cs
 C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.dll
 C:\Users\Monique\source\repos\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.pdb
+C:\Git\ReadFilesByModel\TesteFile\bin\Debug\netcoreapp3.1\TesteFile.exe
+C:\Git\ReadFilesByModel\TesteFile\bin\Debug\netcoreapp3.1\TesteFile.deps.json
+C:\Git\ReadFilesByModel\TesteFile\bin\Debug\netcoreapp3.1\TesteFile.runtimeconfig.json
+C:\Git\ReadFilesByModel\TesteFile\bin\Debug\netcoreapp3.1\TesteFile.runtimeconfig.dev.json
+C:\Git\ReadFilesByModel\TesteFile\bin\Debug\netcoreapp3.1\TesteFile.dll
+C:\Git\ReadFilesByModel\TesteFile\bin\Debug\netcoreapp3.1\TesteFile.pdb
+C:\Git\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.csprojAssemblyReference.cache
+C:\Git\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.AssemblyInfoInputs.cache
+C:\Git\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.AssemblyInfo.cs
+C:\Git\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.dll
+C:\Git\ReadFilesByModel\TesteFile\obj\Debug\netcoreapp3.1\TesteFile.pdb
